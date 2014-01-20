@@ -1,0 +1,23 @@
+timestamps:
+  login: 1389811949571
+  lastteleport: 1389810339756
+  kits:
+    firework: 1389809658065
+    notch: 1389809924918
+  logout: 1389812035919
+ipAddress: 90.231.172.4
+lastlocation:
+  world: plotworld
+  x: -79.30538267168563
+  y: 1.5102879953417778
+  z: -35.70842346963762
+  yaw: 93.69471
+  pitch: 26.560314
+logoutlocation:
+  world: plotworld
+  x: -22.59180756640121
+  y: 68.73614274061933
+  z: -10.779299163412144
+  yaw: -19.129791
+  pitch: 57.818935
+afk: false
