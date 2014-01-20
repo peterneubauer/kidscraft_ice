@@ -1,0 +1,28 @@
+users:
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  gustafmario:
+    group: Admin
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  mallaballa:
+    group: Owner
+    subgroups: []
+    permissions: []
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Yognaut_Magix:
+    group: Yogger
+    subgroups: []
+    permissions: []
