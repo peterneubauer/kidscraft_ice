@@ -1,0 +1,72 @@
+[19:11:24] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[19:11:24] [Server thread/INFO]: Loading properties
+[19:11:24] [Server thread/INFO]: Default game type: SURVIVAL
+[19:11:24] [Server thread/INFO]: Generating keypair
+[19:11:24] [Server thread/INFO]: Starting Minecraft server on *:25503
+[19:11:24] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[19:11:25] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[19:11:25] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.5.8
+[19:11:25] [Server thread/INFO]: [Microblocks] Loading Microblocks v2.0
+[19:11:25] [Server thread/INFO]: [Essentials] Loading Essentials v2.12.2
+[19:11:25] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.12.2
+[19:11:25] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[19:11:25] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+[19:11:25] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[19:11:25] [Server thread/INFO]: Preparing level "world"
+[19:11:25] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[19:11:25] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[19:11:25] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[19:11:25] [Server thread/INFO]: Attempting to move world/DIM-1 to world_nether/DIM-1...
+[19:11:25] [Server thread/INFO]: Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+[19:11:25] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[19:11:25] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[19:11:25] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[19:11:25] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[19:11:25] [Server thread/INFO]: Attempting to move world/DIM1 to world_the_end/DIM1...
+[19:11:25] [Server thread/INFO]: Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+[19:11:25] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[19:11:25] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7127967031766022248)
+[19:11:25] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[19:11:25] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[19:11:25] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[19:11:25] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[19:11:25] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[19:11:25] [Thread-7/INFO]: ----- ------------------- -----
+[19:11:26] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7127967031766022248)
+[19:11:27] [Server thread/INFO]: Preparing spawn area: 10%
+[19:11:28] [Server thread/INFO]: Preparing spawn area: 25%
+[19:11:29] [Server thread/INFO]: Preparing spawn area: 45%
+[19:11:30] [Server thread/INFO]: Preparing spawn area: 60%
+[19:11:31] [Server thread/INFO]: Preparing spawn area: 84%
+[19:11:32] [Server thread/INFO]: Preparing spawn area: 97%
+[19:11:32] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7127967031766022248)
+[19:11:33] [Server thread/INFO]: Preparing spawn area: 47%
+[19:11:34] [Server thread/INFO]: Preparing spawn area: 99%
+[19:11:34] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[19:11:34] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[19:11:34] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[19:11:34] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[19:11:34] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[19:11:34] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[19:11:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.5.8
+[19:11:34] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[19:11:34] [Server thread/INFO]: [Microblocks] Enabling Microblocks v2.0
+[19:11:34] [Server thread/INFO]: [Microblocks] Please report any head mismatches to itsCrafted on SpigotMC, or infiniteForge on BukkitDev.
+[19:11:34] [Server thread/INFO]: [Microblocks] The current plugin version is 2.0. Please use this when sending reports of mismatched heads and such.
+[19:11:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.12.2
+[19:11:34] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[19:11:34] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.12.2
+[19:11:34] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[19:11:35] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+[19:11:35] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[19:11:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:11:35] [Server thread/INFO]: Done (9.864s)! For help, type "help" or "?"
+[19:11:35] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[19:11:40] [User Authenticator #1/INFO]: UUID of player miljonmannen is bdc0c63cf3fe4832868aaf8260b84ac2
+[19:11:40] [Server thread/INFO]: miljonmannen[/31.211.248.22:1357] logged in with entity id 285 at ([world] -867.5, 68.0, 408.5)
+[19:12:04] [Server thread/INFO]: miljonmannen lost connection: Disconnected
+[19:12:04] [Server thread/INFO]: miljonmannen left the game.
+[19:14:49] [User Authenticator #2/INFO]: UUID of player miljonmannen is bdc0c63cf3fe4832868aaf8260b84ac2
+[19:14:49] [Server thread/INFO]: miljonmannen[/31.211.248.22:1373] logged in with entity id 340 at ([world] -867.5, 68.0, 408.5)
+[19:14:49] [Thread-4/INFO]: Stopping server
+[19:14:49] [Thread-4/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
