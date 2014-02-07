@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [07:39:31] [User Authenticator #64/INFO]: UUID of player ElliottBook is d6a62bfe0cc74de3ac7dcda126363d2e
 [07:39:31] [Server thread/INFO]: ElliottBook[/83.254.199.24:51888] logged in with entity id 642083 at ([world] 68.31116656317127, 84.0, 1672.7557653569802)
 [07:39:41] [Server thread/INFO]: ElliottBook issued server command: /deop iggi321
@@ -27,3 +28,61 @@
 [15:31:01] [Thread-4/INFO]: Saving worlds
 [15:31:01] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
 [15:31:01] [Thread-4/INFO]: Saving chunks for level 'world_nether'/Nether
+=======
+[15:36:39] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[15:36:39] [Server thread/INFO]: Loading properties
+[15:36:39] [Server thread/INFO]: Default game type: CREATIVE
+[15:36:39] [Server thread/INFO]: Generating keypair
+[15:36:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:36:39] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[15:36:39] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[15:36:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.5.8
+[15:36:39] [Server thread/INFO]: [PlotMe] Loading PlotMe v0.13b
+[15:36:39] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[15:36:39] [Server thread/INFO]: [Microblocks] Loading Microblocks v2.0
+[15:36:39] [Server thread/INFO]: [Essentials] Loading Essentials v2.12.2
+[15:36:39] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.12.2
+[15:36:39] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[15:36:39] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+[15:36:39] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[15:36:39] [Server thread/INFO]: [PlotMe] Enabling PlotMe v0.13b
+[15:36:40] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[15:36:40] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[15:36:40] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[15:36:40] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[15:36:40] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[15:36:40] [Thread-7/INFO]: ----- ------------------- -----
+[15:36:40] [Server thread/INFO]: ?9[PlotMe] ?r 6 plots loaded
+[15:36:40] [Server thread/INFO]: Preparing level "world"
+[15:36:40] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6906860428206434226)
+[15:36:41] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6906860428206434226)
+[15:36:42] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[15:36:42] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[15:36:42] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[15:36:42] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[15:36:42] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[15:36:42] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[15:36:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.5.8
+[15:36:42] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[15:36:42] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[15:36:42] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.7.2 / CB2922-DEV
+[15:36:42] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[15:36:42] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[15:36:42] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[15:36:42] [Server thread/INFO]: [NoCheatPlus] Version 3.10.7-BETA-sMD5NET-b651 is enabled.
+[15:36:42] [Server thread/INFO]: [Microblocks] Enabling Microblocks v2.0
+[15:36:42] [Server thread/INFO]: [Microblocks] Please report any head mismatches to itsCrafted on SpigotMC, or infiniteForge on BukkitDev.
+[15:36:42] [Server thread/INFO]: [Microblocks] The current plugin version is 2.0. Please use this when sending reports of mismatched heads and such.
+[15:36:42] [Server thread/INFO]: [Essentials] Enabling Essentials v2.12.2
+[15:36:43] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[15:36:43] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.12.2
+[15:36:43] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[15:36:43] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+[15:36:43] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[15:36:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:36:43] [Server thread/INFO]: Done (2.393s)! For help, type "help" or "?"
+[15:36:43] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[15:36:43] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[15:36:43] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[15:36:47] [Thread-4/INFO]: Stopping server
+>>>>>>> 5f6361098db058a5da09cc2e2054a929d6c5a05b
