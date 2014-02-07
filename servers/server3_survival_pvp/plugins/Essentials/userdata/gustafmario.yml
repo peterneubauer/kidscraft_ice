@@ -1,0 +1,23 @@
+timestamps:
+  login: 1391024498179
+  kits:
+    tools: 1390315220318
+  lastteleport: 1390315390067
+  logout: 1391024501458
+ipAddress: 90.231.172.4
+nickname: gustafmario
+lastlocation:
+  world: world
+  x: -117.35634208787845
+  y: 60.215132075806295
+  z: 268.3208786470509
+  yaw: 217.80002
+  pitch: 33.000004
+powertools: {}
+logoutlocation:
+  world: world
+  x: -647.4879215407846
+  y: 70.0
+  z: 484.35956081731797
+  yaw: -275.30106
+  pitch: 8.109524

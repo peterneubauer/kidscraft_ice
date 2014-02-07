@@ -1,0 +1,29 @@
+[07:39:31] [User Authenticator #64/INFO]: UUID of player ElliottBook is d6a62bfe0cc74de3ac7dcda126363d2e
+[07:39:31] [Server thread/INFO]: ElliottBook[/83.254.199.24:51888] logged in with entity id 642083 at ([world] 68.31116656317127, 84.0, 1672.7557653569802)
+[07:39:41] [Server thread/INFO]: ElliottBook issued server command: /deop iggi321
+[07:39:41] [Server thread/INFO]: ElliottBook: De-opped iggi321[m
+[07:39:46] [Server thread/INFO]: ElliottBook lost connection: Disconnected
+[07:39:46] [Server thread/INFO]: ElliottBook left the game.
+[15:30:59] [Server thread/INFO]: CONSOLE issued server command: /kickall Restarting server!  Try again in 60 seconds!
+[15:30:59] [Server thread/INFO]: [0;31;22mKicked all players from server.[m
+[15:31:01] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[15:31:01] [Server thread/INFO]: Stopping server
+[15:31:01] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[15:31:01] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+[15:31:01] [Server thread/INFO]: [PlotMe] Disabling PlotMe v0.13b
+[15:31:01] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[15:31:01] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.12.2
+[15:31:01] [Server thread/INFO]: [Essentials] Disabling Essentials v2.12.2
+[15:31:01] [Server thread/INFO]: [Microblocks] Disabling Microblocks v2.0
+[15:31:01] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.5.8
+[15:31:01] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[15:31:01] [Server thread/INFO]: [NoCheatPlus] Version 3.10.7-BETA-sMD5NET-b651 is disabled.
+[15:31:01] [Server thread/INFO]: Saving players
+[15:31:01] [Server thread/INFO]: Saving worlds
+[15:31:01] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:31:01] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[15:31:01] [Thread-4/INFO]: Stopping server
+[15:31:01] [Thread-4/INFO]: Saving players
+[15:31:01] [Thread-4/INFO]: Saving worlds
+[15:31:01] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[15:31:01] [Thread-4/INFO]: Saving chunks for level 'world_nether'/Nether

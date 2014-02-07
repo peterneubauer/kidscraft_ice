@@ -1,0 +1,21 @@
+timestamps:
+  login: 1391703799770
+  lastteleport: 1391705246572
+  logout: 1391705262370
+ipAddress: 83.254.198.200
+lastlocation:
+  world: world
+  x: 52.24612571731979
+  y: 4.0
+  z: 1718.740379468503
+  yaw: -240.23958
+  pitch: 84.14999
+logoutlocation:
+  world: world
+  x: 60.15849981696357
+  y: 4.0
+  z: 1722.7094184416696
+  yaw: -194.33966
+  pitch: 22.95002
+afk: false
+nickname: lol

@@ -1,0 +1,25 @@
+timestamps:
+  login: 1391096369047
+  lastteleport: 1391097704119
+  kits:
+    tools: 1391096402048
+    firework: 1389809658065
+    notch: 1389809924918
+  logout: 1391097801864
+ipAddress: 90.231.172.4
+lastlocation:
+  world: world
+  x: 1055.8283599199563
+  y: 4.0
+  z: 1659.4931362317016
+  yaw: 177.8334
+  pitch: 6.7926855
+logoutlocation:
+  world: world
+  x: 1073.666604914812
+  y: 8.23426134662891
+  z: 1689.2636370424061
+  yaw: 62.1799
+  pitch: 9.886827
+afk: false
+nickname: gustafmario
