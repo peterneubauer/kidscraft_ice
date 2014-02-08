@@ -6,7 +6,7 @@
 #####################
 
 # Replace the location path with the folder containing your CraftBukkit.jar or minecraft_server.jar file
-LOCATION="/home/minecraft/kidscraft_ice/servers/server2_creative_plots"
+LOCATION="/home/kidscraft/kidscraft/kidscraft_ice/servers/server2_creative_plots"
 
 #Replace CraftBukkit with the name of the .jar file you use
 MINECRAFT="craftbukkit.jar"
@@ -15,7 +15,7 @@ MINECRAFT="craftbukkit.jar"
 JAVA="java"
 
 #Java Options - Replace with options that are sane and stable for your server
-JAVAOPTS="-server -jar"
+JAVAOPTS="-Xmx2g -server -jar"
 
 SCRNAME="ice2"
 
