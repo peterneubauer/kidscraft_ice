@@ -1,1 +1,6 @@
+# Updated 2/8/14 5:19 PM by Minecraft 1.7.2
 # victim name | ban date | banned by | banned until | reason
+
+juliusbilen|2014-02-08 13:42:32 +0100|(Unknown)|Forever|Banned by an operator.
+aliceqjoelsson|2014-02-08 14:00:39 +0100|(Unknown)|Forever|Banned by an operator.
+maxlcreator|2014-02-08 14:45:55 +0100|(Unknown)|Forever|Banned by an operator.

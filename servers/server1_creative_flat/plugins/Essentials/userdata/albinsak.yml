@@ -1,0 +1,29 @@
+timestamps:
+  login: 1391876242534
+  logout: 1391876527788
+  lastteleport: 1391876377443
+ipAddress: 192.168.1.108
+lastlocation:
+  world: world
+  x: 974.9135743778763
+  y: 26.38506282069967
+  z: 1880.8860963957288
+  yaw: -155.20013
+  pitch: 39.730637
+logoutlocation:
+  world: world
+  x: 986.6313745160835
+  y: 22.102656708669354
+  z: 1594.909867014425
+  yaw: -278.07153
+  pitch: 75.39469
+nickname: albinsak
+homes:
+  home:
+    world: world
+    x: 760.0068678068513
+    y: 4.0
+    z: 1652.9021644832278
+    yaw: -327.0545
+    pitch: 29.559456
+afk: false

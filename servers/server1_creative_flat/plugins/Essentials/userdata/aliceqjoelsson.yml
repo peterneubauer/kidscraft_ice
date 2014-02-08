@@ -1,0 +1,23 @@
+timestamps:
+  login: 1391863060414
+  logout: 1391864433306
+ipAddress: 192.168.1.225
+lastlocation:
+  world: world
+  x: 759.1179550698904
+  y: 8.986666414931216
+  z: 1653.4953064872175
+  yaw: -291.53064
+  pitch: 33.149998
+ban:
+  reason: '§4Banned:
+
+    §r10m'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 1081.9702918895914
+  y: 4.0
+  z: 1710.3882837999904
+  yaw: 322.11755
+  pitch: 30.300154

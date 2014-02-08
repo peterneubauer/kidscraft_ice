@@ -1,0 +1,31 @@
+timestamps:
+  login: 1391874783616
+  logout: 1391876347731
+  lastteleport: 1391876680655
+  kits:
+    tools: 1391873854338
+ipAddress: 192.168.1.140
+lastlocation:
+  world: world
+  x: 1124.0638395993942
+  y: 23.772368156727055
+  z: 1839.0060667140542
+  yaw: 174.89178
+  pitch: -3.3001559
+logoutlocation:
+  world: world
+  x: 1093.698910404203
+  y: 36.13987462979328
+  z: 1923.7765727544252
+  yaw: -152.38
+  pitch: 58.949944
+nickname: xPhillePvP
+homes:
+  home:
+    world: world
+    x: 1025.5618809642583
+    y: 4.0
+    z: 1927.5145863876028
+    yaw: 98.3979
+    pitch: 34.199585
+afk: false

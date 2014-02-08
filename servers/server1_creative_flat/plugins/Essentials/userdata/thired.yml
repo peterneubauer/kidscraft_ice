@@ -1,0 +1,28 @@
+timestamps:
+  login: 1391874955267
+  logout: 1391866132709
+  lastteleport: 1391876813064
+ipAddress: 192.168.1.170
+lastlocation:
+  world: world
+  x: 939.5663512644842
+  y: 5.0
+  z: 1574.7003944546695
+  yaw: 305.01926
+  pitch: 55.949978
+nickname: CookieMonster
+logoutlocation:
+  world: world
+  x: 1125.5740121013912
+  y: 32.23554647930275
+  z: 1613.480218546345
+  yaw: -209.38458
+  pitch: 18.149994
+homes:
+  home:
+    world: world_nether
+    x: 47.48896692311746
+    y: 87.0
+    z: 187.33672375913682
+    yaw: 9.66472
+    pitch: 10.5

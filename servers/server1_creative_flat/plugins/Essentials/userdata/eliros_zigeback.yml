@@ -1,0 +1,28 @@
+timestamps:
+  login: 1391867963617
+  logout: 1391869742360
+  lastteleport: 1391868340686
+ipAddress: 192.168.1.190
+lastlocation:
+  world: world
+  x: 1082.487414298676
+  y: 21.781392769340716
+  z: 1754.5453444475945
+  yaw: 189.30763
+  pitch: 31.80836
+nickname: EllE
+logoutlocation:
+  world: world
+  x: 1240.8675347406231
+  y: 6.490643189201405
+  z: 1468.769716115142
+  yaw: -337.36157
+  pitch: 78.32636
+homes:
+  home:
+    world: world_nether
+    x: 49.69999998807907
+    y: 87.0
+    z: 190.15741296410562
+    yaw: -142.13242
+    pitch: 25.049927

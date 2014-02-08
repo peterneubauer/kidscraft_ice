@@ -1,23 +1,23 @@
 timestamps:
-  login: 1391530939109
-  logout: 1391531644305
+  login: 1391863636348
+  logout: 1391863939455
   kits:
     color: 1391096934347
-  lastteleport: 1391531112107
-ipAddress: 2.71.195.47
+  lastteleport: 1391863775743
+ipAddress: 192.168.1.33
 lastlocation:
   world: world
-  x: 1050.1019621566502
-  y: 4.0
-  z: 1704.5055298991501
-  yaw: 87.96719
-  pitch: 30.750149
+  x: 1181.2493181844227
+  y: 17.98935601251733
+  z: 1753.8692931672858
+  yaw: -276.25967
+  pitch: 39.449924
 logoutlocation:
   world: world
-  x: 51.02324036853629
-  y: 75.0
-  z: 1685.772266325709
-  yaw: 336.81677
-  pitch: 58.500042
+  x: 1148.992558479318
+  y: 8.5
+  z: 1706.3954081505572
+  yaw: -243.55046
+  pitch: 44.07481
 afk: false
 nickname: §2Runner

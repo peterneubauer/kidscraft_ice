@@ -1,21 +1,21 @@
 timestamps:
-  login: 1391703799770
-  lastteleport: 1391705246572
-  logout: 1391705262370
-ipAddress: 83.254.198.200
+  login: 1391875041816
+  lastteleport: 1391875439205
+  logout: 1391875031716
+ipAddress: 192.168.1.210
 lastlocation:
   world: world
-  x: 52.24612571731979
-  y: 4.0
-  z: 1718.740379468503
-  yaw: -240.23958
-  pitch: 84.14999
+  x: 883.6559404727689
+  y: 11.972125101266332
+  z: 1692.5265748976738
+  yaw: 243.36752
+  pitch: 19.049978
 logoutlocation:
   world: world
-  x: 60.15849981696357
-  y: 4.0
-  z: 1722.7094184416696
-  yaw: -194.33966
-  pitch: 22.95002
+  x: 1212.459545901875
+  y: 21.0
+  z: 1602.4051333450132
+  yaw: -159.7544
+  pitch: 21.449934
 afk: false
-nickname: lol
+nickname: Ugglas

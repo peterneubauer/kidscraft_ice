@@ -1,11 +1,21 @@
 timestamps:
-  login: 1391096468001
-  logout: 1391096509045
-ipAddress: 81.232.28.216
+  login: 1391876462783
+  logout: 1391876472731
+  lastteleport: 1391862143288
+ipAddress: 192.168.1.27
 logoutlocation:
   world: world
-  x: 1080.372803314712
+  x: 975.3170649984582
   y: 4.0
-  z: 1707.4648459968746
-  yaw: -343.19458
-  pitch: 4.350021
+  z: 1434.3579435529136
+  yaw: -60.682877
+  pitch: 6.000064
+lastlocation:
+  world: world
+  x: 1105.3469521676927
+  y: 12.0
+  z: 1782.8898766124555
+  yaw: -110.3351
+  pitch: 27.150005
+afk: false
+nickname: Afus

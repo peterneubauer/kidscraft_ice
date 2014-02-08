@@ -1,0 +1,18 @@
+timestamps:
+  login: 1391876642837
+  logout: 1391876902732
+ipAddress: 192.168.1.105
+lastlocation:
+  world: world_nether
+  x: 99.30000001192093
+  y: -204.64601980076952
+  z: 377.69999998807907
+  yaw: -100.129074
+  pitch: -90.0
+logoutlocation:
+  world: world
+  x: 1063.6390314809373
+  y: 50.403750587734734
+  z: 1632.708584613188
+  yaw: 180.66727
+  pitch: 19.649948

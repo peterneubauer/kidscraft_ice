@@ -4,3 +4,355 @@
 14.01.23 18:59:18 [INFO] gustafmario failed CreativeFly: tried to move unexpectedly. VL 82.
 14.01.23 18:59:18 [INFO] gustafmario failed CreativeFly: tried to move unexpectedly. VL 120.
 14.01.23 18:59:28 [INFO] gustafmario failed CreativeFly: tried to move unexpectedly. VL 195.
+14.02.08 13:08:23 [INFO] Sufos8 failed CreativeFly: tried to move from 947.78, 4.00, 1575.36 to 947.78, 14.52, 1575.36 over a distance of 10.52 block(s). VL 952.
+14.02.08 13:08:33 [INFO] Sufos8 failed CreativeFly: tried to move from 838.06, 4.00, 1820.20 to 838.06, 14.52, 1820.20 over a distance of 10.52 block(s). VL 1119.
+14.02.08 13:08:38 [INFO] Sufos8 failed CreativeFly: tried to move from 838.06, 4.00, 1820.20 to 838.06, 14.52, 1820.20 over a distance of 10.52 block(s). VL 3066.
+14.02.08 13:08:50 [INFO] Sufos8 failed CreativeFly: tried to move from 701.33, 8.92, 1919.62 to 703.61, 13.66, 1917.21 over a distance of 5.78 block(s). VL 1059.
+14.02.08 13:08:55 [INFO] Sufos8 failed CreativeFly: tried to move from 702.76, 8.92, 1918.14 to 702.76, 13.66, 1918.14 over a distance of 4.74 block(s). VL 1120.
+14.02.08 13:09:01 [INFO] Sufos8 failed CreativeFly: tried to move from 753.31, 8.92, 1946.58 to 755.45, 13.66, 1947.91 over a distance of 5.37 block(s). VL 861.
+14.02.08 13:09:07 [INFO] Sufos8 failed CreativeFly: tried to move from 808.37, 4.00, 1907.29 to 808.37, 14.42, 1907.29 over a distance of 10.42 block(s). VL 1225.
+14.02.08 13:09:12 [INFO] Sufos8 failed CreativeFly: tried to move from 808.41, 4.00, 1907.26 to 808.41, 14.42, 1907.26 over a distance of 10.42 block(s). VL 2862.
+14.02.08 13:09:21 [INFO] Sufos8 failed CreativeFly: tried to move from 808.41, 4.00, 1907.26 to 808.41, 14.42, 1907.26 over a distance of 10.42 block(s). VL 1070.
+14.02.08 13:09:51 [INFO] Sufos8 failed CreativeFly: tried to move from 1014.40, 4.00, 1699.54 to 1014.40, 14.42, 1699.54 over a distance of 10.42 block(s). VL 942.
+14.02.08 13:29:59 [INFO] ninjamyran failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.02.08 13:30:00 [INFO] Zenrry failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:30:00 [INFO] toivo668 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:30:00 [INFO] Alice_C_Malmo failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:30:00 [INFO] mrstef failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:30:00 [INFO] Alice_Olivia failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:30:00 [INFO] HarrisonGrunning failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:30:03 [INFO] pirate_kill failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:30:04 [INFO] anbr01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:33:34 [INFO] Alice_C_Malmo failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 13:33:38 [INFO] Alice_C_Malmo failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 13:33:53 [INFO] ShadieVig failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 13:33:57 [INFO] Alice_C_Malmo failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 13:34:00 [INFO] Alice_C_Malmo failed Visible: interacts with a block out of sight. VL 7.
+14.02.08 13:34:06 [INFO] Alice_C_Malmo failed Visible: interacts with a block out of sight. VL 8.
+14.02.08 13:34:07 [INFO] ShadieVig failed Direction: tried to interact with a block out of his line of sight. VL 15.
+14.02.08 13:36:28 [INFO] santaclaus05 failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 13:37:07 [INFO] santaclaus05 failed Angle: tried to hit multiple entities at the same time. VL 271.
+14.02.08 13:38:43 [INFO] ShadieVig failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 13:40:42 [INFO] jackebest failed Speed: tried to throw projectiles too quickly. VL 314.
+14.02.08 13:40:47 [INFO] jackebest failed Speed: tried to throw projectiles too quickly. VL 668.
+14.02.08 13:52:30 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.02.08 13:52:33 [INFO] mallroth failed Text: acted like spamming (IP: 192.168.1.176). VL 0.
+14.02.08 13:53:02 [INFO] santaclaus05 failed Speed: tried to throw projectiles too quickly. VL 314.
+14.02.08 13:53:02 [INFO] santaclaus05 failed Speed: tried to throw projectiles too quickly. VL 1165.
+14.02.08 13:53:11 [INFO] EbbeW failed Commands: issued too many commands. VL 1.
+14.02.08 13:54:42 [INFO] santaclaus05 failed Speed: tried to throw projectiles too quickly. VL 1385.
+14.02.08 13:54:57 [INFO] chcolate_sase failed Speed: tried to attack with too high a frequency. VL 2.
+14.02.08 13:56:54 [INFO] novaeriksson failed Speed: tried to throw projectiles too quickly. VL 314.
+14.02.08 13:56:54 [INFO] jackragn failed Speed: tried to throw projectiles too quickly. VL 312.
+14.02.08 13:56:54 [INFO] mallroth failed Speed: tried to throw projectiles too quickly. VL 312.
+14.02.08 13:56:54 [INFO] bergelin_05 failed AutoSign: failed autosign with block_mismatch. VL 10.
+14.02.08 13:56:55 [INFO] WreckCrusher failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:56:55 [INFO] svante_03 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:56:55 [INFO] MansMette failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:56:55 [INFO] Hugodenbeste failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:56:55 [INFO] jackragn failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:56:55 [INFO] mallroth failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:56:55 [INFO] Kasnik failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:56:55 [INFO] sixtenochalbert failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 13:57:04 [INFO] novaeriksson failed Speed: tried to throw projectiles too quickly. VL 185.
+14.02.08 13:57:04 [INFO] mallroth failed Speed: tried to throw projectiles too quickly. VL 188.
+14.02.08 13:57:09 [INFO] Augusta1 failed Passable: moved into a block (89). VL 10.
+14.02.08 14:01:41 [INFO] Jack12335 failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:01:53 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:02:00 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 17.
+14.02.08 14:02:17 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 22.
+14.02.08 14:02:50 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 27.
+14.02.08 14:03:46 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.02.08 14:03:52 [INFO] Jack12335 failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:04:10 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 14:04:13 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 26.
+14.02.08 14:04:22 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 14.
+14.02.08 14:04:31 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 17.
+14.02.08 14:04:47 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 27.
+14.02.08 14:04:52 [INFO] SuperBellaBus failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:04:52 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 49.
+14.02.08 14:05:09 [INFO] maxiwille12 failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:05:16 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 17.
+14.02.08 14:05:36 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 26.
+14.02.08 14:05:43 [INFO] maxiwille12 failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:07:18 [INFO] SuperBellaBus failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:09:15 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:09:18 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 22.
+14.02.08 14:10:33 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 15.
+14.02.08 14:10:36 [INFO] mippen failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:10:36 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 20.
+14.02.08 14:10:41 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 20.
+14.02.08 14:10:44 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 34.
+14.02.08 14:11:01 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 39.
+14.02.08 14:11:04 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 47.
+14.02.08 14:11:08 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 87.
+14.02.08 14:11:11 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 102.
+14.02.08 14:11:14 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 111.
+14.02.08 14:11:30 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 120.
+14.02.08 14:11:39 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 141.
+14.02.08 14:12:23 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 161.
+14.02.08 14:12:27 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 184.
+14.02.08 14:13:13 [INFO] AlbinSak failed Passable: moved into a block (152). VL 10.
+14.02.08 14:14:38 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 14:14:44 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 16.
+14.02.08 14:17:11 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 26.
+14.02.08 14:17:12 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 14.
+14.02.08 14:17:14 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 33.
+14.02.08 14:17:17 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 33.
+14.02.08 14:17:21 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 34.
+14.02.08 14:18:44 [INFO] WoodCollector failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 14:18:47 [INFO] WoodCollector failed Direction: tried to interact with a block out of his line of sight. VL 32.
+14.02.08 14:18:50 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:18:51 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:18:57 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:19:01 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:19:01 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 23.
+14.02.08 14:19:15 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 8.
+14.02.08 14:19:31 [INFO] maxiwille12 failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:19:31 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:19:31 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 26.
+14.02.08 14:19:36 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 22.
+14.02.08 14:19:41 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 12.
+14.02.08 14:19:47 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 12.
+14.02.08 14:19:51 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 15.
+14.02.08 14:20:43 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.02.08 14:20:46 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 14:20:54 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 37.
+14.02.08 14:20:59 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 38.
+14.02.08 14:21:35 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:21:37 [INFO] mippen failed Visible: interacts with a block out of sight. VL 7.
+14.02.08 14:21:40 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 14:21:46 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 16.
+14.02.08 14:22:08 [INFO] mippen failed Visible: interacts with a block out of sight. VL 8.
+14.02.08 14:22:10 [INFO] jeseira failed Speed: tried to throw projectiles too quickly. VL 285.
+14.02.08 14:22:21 [INFO] mippen failed Visible: interacts with a block out of sight. VL 9.
+14.02.08 14:22:21 [INFO] mippen failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.02.08 14:22:23 [INFO] mippen failed Visible: interacts with a block out of sight. VL 15.
+14.02.08 14:22:27 [INFO] mippen failed Visible: interacts with a block out of sight. VL 19.
+14.02.08 14:22:31 [INFO] mippen failed Visible: interacts with a block out of sight. VL 20.
+14.02.08 14:22:33 [INFO] Edgarn2004 failed Direction: tried to interact with a block out of his line of sight. VL 14.
+14.02.08 14:22:35 [INFO] mippen failed Visible: interacts with a block out of sight. VL 20.
+14.02.08 14:22:35 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:22:38 [INFO] maxiwille12 failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:22:41 [INFO] jeseira failed Speed: tried to throw projectiles too quickly. VL 180.
+14.02.08 14:22:41 [INFO] maxiwille12 failed Visible: interacts with a block out of sight. VL 8.
+14.02.08 14:22:44 [INFO] maxiwille12 failed Visible: interacts with a block out of sight. VL 9.
+14.02.08 14:22:45 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 14:23:03 [INFO] maxiwille12 failed Visible: interacts with a block out of sight. VL 7.
+14.02.08 14:23:08 [INFO] maxiwille12 failed Visible: interacts with a block out of sight. VL 7.
+14.02.08 14:23:58 [INFO] mippen failed Visible: interacts with a block out of sight. VL 17.
+14.02.08 14:24:05 [INFO] kevin_taverner failed Speed: tried to throw projectiles too quickly. VL 183.
+14.02.08 14:24:06 [INFO] mrstef failed Passable: moved into a block (85). VL 10.
+14.02.08 14:24:06 [INFO] Edgarn2004 failed Direction: tried to interact with a block out of his line of sight. VL 16.
+14.02.08 14:24:12 [INFO] kevin_taverner failed Speed: tried to throw projectiles too quickly. VL 212.
+14.02.08 14:24:23 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 17.
+14.02.08 14:24:32 [INFO] Mekboy02 failed Speed: tried to throw projectiles too quickly. VL 314.
+14.02.08 14:24:32 [INFO] emily_taverner failed Speed: tried to throw projectiles too quickly. VL 181.
+14.02.08 14:24:35 [INFO] SiLovskog failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
+14.02.08 14:24:35 [INFO] CoolaTjuven failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
+14.02.08 14:24:37 [INFO] SiLovskog failed MorePacketsVehicle: sent 14 more packet(s) than expected. VL 14.
+14.02.08 14:24:37 [INFO] CoolaTjuven failed MorePacketsVehicle: sent 14 more packet(s) than expected. VL 14.
+14.02.08 14:24:39 [INFO] SiLovskog failed MorePacketsVehicle: sent 12 more packet(s) than expected. VL 12.
+14.02.08 14:24:39 [INFO] CoolaTjuven failed MorePacketsVehicle: sent 11 more packet(s) than expected. VL 11.
+14.02.08 14:24:39 [INFO] SiLovskog failed CreativeFly: tried to move unexpectedly. VL 334.
+14.02.08 14:24:39 [INFO] SiLovskog failed CreativeFly: tried to move from 1112.76, 24.50, 1521.50 to 1116.16, 25.85, 1523.50 over a distance of 4.17 block(s). VL 669.
+14.02.08 14:24:46 [INFO] mippen failed Visible: interacts with a block out of sight. VL 16.
+14.02.08 14:24:50 [INFO] SiLovskog failed MorePacketsVehicle: sent 21 more packet(s) than expected. VL 21.
+14.02.08 14:24:52 [INFO] CoolaTjuven failed MorePacketsVehicle: sent 21 more packet(s) than expected. VL 21.
+14.02.08 14:25:08 [INFO] Edgarn2004 failed Direction: tried to interact with a block out of his line of sight. VL 34.
+14.02.08 14:26:30 [INFO] WoodCollector failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:27:00 [INFO] CoolaTjuven failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 14:27:03 [INFO] CoolaTjuven failed Direction: tried to interact with a block out of his line of sight. VL 25.
+14.02.08 14:27:11 [INFO] mippen failed Visible: interacts with a block out of sight. VL 13.
+14.02.08 14:28:13 [INFO] maxiwille12 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.02.08 14:29:59 [INFO] mippen failed Visible: interacts with a block out of sight. VL 10.
+14.02.08 14:31:35 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:31:36 [INFO] hurtsmall failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.02.08 14:31:49 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 17.
+14.02.08 14:31:52 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 26.
+14.02.08 14:31:56 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 27.
+14.02.08 14:34:02 [INFO] lovenalle04 failed Speed: tried to throw projectiles too quickly. VL 314.
+14.02.08 14:34:02 [INFO] hurtsmall failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:46:22 [INFO] ErikDavidsson failed Passable: moved into a block (152). VL 11.
+14.02.08 14:46:40 [INFO] timeklof failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:46:41 [INFO] ErikDavidsson failed Passable: moved into a block (85). VL 10.
+14.02.08 14:46:42 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:46:46 [INFO] ErikDavidsson failed Passable: moved into a block (152). VL 22.
+14.02.08 14:46:51 [INFO] ErikDavidsson failed Passable: moved into a block (152). VL 30.
+14.02.08 14:47:00 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 7.
+14.02.08 14:47:03 [INFO] ErikDavidsson failed Passable: moved into a block (152). VL 22.
+14.02.08 14:47:08 [INFO] ErikDavidsson failed Passable: moved into a block (152). VL 42.
+14.02.08 14:48:50 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:50:07 [INFO] frejaeklund failed Direction: tried to interact with a block out of his line of sight. VL 14.
+14.02.08 14:50:13 [INFO] frejaeklund failed Direction: tried to interact with a block out of his line of sight. VL 43.
+14.02.08 14:50:16 [INFO] frejaeklund failed Direction: tried to interact with a block out of his line of sight. VL 46.
+14.02.08 14:51:05 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:51:08 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:51:10 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:51:47 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 14:51:49 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 8.
+14.02.08 14:51:51 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 12.
+14.02.08 14:52:35 [INFO] EbbeW failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 14:52:42 [INFO] melk001 failed Visible: interacts with a block out of sight. VL 11.
+14.02.08 14:53:10 [INFO] GabrielG4 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.02.08 14:55:51 [INFO] GabrielG4 failed Passable: moved into a block (98). VL 11.
+14.02.08 14:55:56 [INFO] GabrielG4 failed Passable: moved into a block (98). VL 22.
+14.02.08 14:56:05 [INFO] GabrielG4 failed Passable: moved into a block (98). VL 11.
+14.02.08 14:56:14 [INFO] santaclaus05 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.08 14:56:49 [INFO] frejaeklund failed Direction: tried to interact with a block out of his line of sight. VL 14.
+14.02.08 14:58:16 [INFO] mrstef failed Improbable: meets the improbable more than expected. VL 12.
+14.02.08 14:58:27 [INFO] kobragift failed Reach: exceeds block-interact distance (253). VL 253.
+14.02.08 15:00:39 [INFO] EbbeW failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 15:00:42 [INFO] EbbeW failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 15:01:04 [INFO] EbbeW failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 15:01:09 [INFO] EbbeW failed Visible: interacts with a block out of sight. VL 10.
+14.02.08 15:01:11 [INFO] EbbeW failed Visible: interacts with a block out of sight. VL 28.
+14.02.08 15:02:45 [INFO] frejaeklund failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 15:02:46 [INFO] frejaeklund failed Reach: exceeds block-interact distance (1). VL 6.
+14.02.08 15:02:50 [INFO] Oliwerbuza failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.02.08 15:02:51 [INFO] frejaeklund failed Direction: tried to interact with a block out of his line of sight. VL 81.
+14.02.08 15:03:05 [INFO] Oliwerbuza failed Direction: tried to interact with a block out of his line of sight. VL 14.
+14.02.08 15:03:54 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 242.
+14.02.08 15:04:14 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 162.
+14.02.08 15:04:53 [INFO] frejaeklund failed Speed: tried to throw projectiles too quickly. VL 300.
+14.02.08 15:04:54 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 230.
+14.02.08 15:05:00 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 447.
+14.02.08 15:05:04 [INFO] frejaeklund failed Speed: tried to throw projectiles too quickly. VL 359.
+14.02.08 15:05:05 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 792.
+14.02.08 15:05:10 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 725.
+14.02.08 15:05:17 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 562.
+14.02.08 15:06:03 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 162.
+14.02.08 15:06:05 [INFO] frejaeklund failed Speed: tried to throw projectiles too quickly. VL 353.
+14.02.08 15:06:23 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 212.
+14.02.08 15:08:21 [INFO] santaclaus05 failed AutoSign: failed autosign with block_mismatch. VL 10.
+14.02.08 15:09:38 [INFO] Viggo_Alvin failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.02.08 15:09:47 [INFO] Eliros_Zigeback failed AutoSign: failed autosign with block_mismatch. VL 10.
+14.02.08 15:11:02 [INFO] SuperBellaBus failed Speed: tried to attack with too high a frequency. VL 2.
+14.02.08 15:13:03 [INFO] Eliros_Zigeback failed Speed: tried to throw projectiles too quickly. VL 315.
+14.02.08 15:13:24 [INFO] Eliros_Zigeback failed Speed: tried to throw projectiles too quickly. VL 238.
+14.02.08 15:13:32 [INFO] Eliros_Zigeback failed Speed: tried to throw projectiles too quickly. VL 275.
+14.02.08 15:16:06 [INFO] melk001 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.02.08 15:17:50 [INFO] GabrielG4 failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 15:17:50 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 15:17:52 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 7.
+14.02.08 15:17:54 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 9.
+14.02.08 15:17:56 [INFO] GabrielG4 failed Passable: moved into a block (5). VL 11.
+14.02.08 15:17:56 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 12.
+14.02.08 15:17:58 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 13.
+14.02.08 15:18:00 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 15.
+14.02.08 15:18:01 [INFO] GabrielG4 failed Passable: moved into a block (5). VL 20.
+14.02.08 15:18:06 [INFO] GabrielG4 failed Passable: moved into a block (5). VL 35.
+14.02.08 15:18:11 [INFO] GabrielG4 failed Passable: moved into a block (5). VL 49.
+14.02.08 15:18:11 [INFO] GabrielG4 failed Passable: moved into a block (5). VL 51.
+14.02.08 15:18:16 [INFO] GabrielG4 failed Passable: moved into a block (5). VL 57.
+14.02.08 15:18:26 [INFO] GabrielG4 failed Passable: moved into a block (5). VL 14.
+14.02.08 15:18:42 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 17.
+14.02.08 15:18:45 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 18.
+14.02.08 15:19:21 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 11.
+14.02.08 15:19:23 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 12.
+14.02.08 15:19:27 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 13.
+14.02.08 15:19:31 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 14.
+14.02.08 15:19:34 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 15.
+14.02.08 15:19:37 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 17.
+14.02.08 15:19:39 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 18.
+14.02.08 15:19:48 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 19.
+14.02.08 15:19:51 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 21.
+14.02.08 15:19:59 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 23.
+14.02.08 15:20:31 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 27.
+14.02.08 15:20:34 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 29.
+14.02.08 15:20:35 [INFO] melk001 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.02.08 15:20:35 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 250.
+14.02.08 15:20:37 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 33.
+14.02.08 15:20:39 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 35.
+14.02.08 15:20:41 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 36.
+14.02.08 15:20:42 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 186.
+14.02.08 15:20:48 [INFO] Messisebbe failed Passable: moved into a block (160). VL 10.
+14.02.08 15:20:50 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 37.
+14.02.08 15:20:54 [INFO] Messisebbe failed Passable: moved into a block (160). VL 14.
+14.02.08 15:20:54 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 37.
+14.02.08 15:20:59 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 169.
+14.02.08 15:20:59 [INFO] Messisebbe failed Passable: moved into a block (160). VL 17.
+14.02.08 15:21:14 [INFO] Eliros_Zigeback failed Reach: exceeds block-interact distance (251). VL 251.
+14.02.08 15:23:12 [INFO] hurtsmall failed AutoSign: failed autosign with block_mismatch. VL 10.
+14.02.08 15:24:04 [INFO] isak701 failed Passable: moved into a block (160). VL 11.
+14.02.08 15:25:30 [INFO] walx failed Reach: exceeds block-interact distance (251). VL 251.
+14.02.08 15:25:33 [INFO] walx failed Reach: exceeds block-interact distance (251). VL 754.
+14.02.08 15:25:35 [INFO] walx failed Reach: exceeds block-interact distance (251). VL 3269.
+14.02.08 15:26:38 [INFO] frejaeklund failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.02.08 15:26:54 [INFO] xantedantex failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.02.08 15:26:54 [INFO] jackebest failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.02.08 15:26:55 [INFO] AlvinEklund failed AutoSign: failed autosign with block_mismatch. VL 10.
+14.02.08 15:26:55 [INFO] Eliros_Zigeback failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 15:27:02 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.02.08 15:27:05 [INFO] SuperBellaBus failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.08 15:27:27 [INFO] GabrielG4 failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 15:29:28 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 281.
+14.02.08 15:29:33 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 663.
+14.02.08 15:29:40 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 434.
+14.02.08 15:29:45 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 531.
+14.02.08 15:29:52 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 249.
+14.02.08 15:31:47 [INFO] agentwille failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.02.08 15:31:55 [INFO] agentwille failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 15:31:58 [INFO] agentwille failed Direction: tried to interact with a block out of his line of sight. VL 15.
+14.02.08 15:32:01 [INFO] agentwille failed Direction: tried to interact with a block out of his line of sight. VL 23.
+14.02.08 15:32:17 [INFO] EbbeW failed Visible: interacts with a block out of sight. VL 9.
+14.02.08 15:35:10 [INFO] hurtsmall failed Speed: tried to throw projectiles too quickly. VL 381.
+14.02.08 15:39:50 [INFO] AlvinEklund failed Text: acted like spamming (IP: 192.168.1.149). VL 1.
+14.02.08 15:41:50 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 411.
+14.02.08 15:41:57 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 476.
+14.02.08 15:42:07 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 195.
+14.02.08 15:42:27 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 163.
+14.02.08 15:42:31 [INFO] Zenrry failed Passable: moved into a block (152). VL 10.
+14.02.08 15:42:32 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 341.
+14.02.08 15:42:51 [INFO] melk001 failed Speed: tried to throw projectiles too quickly. VL 193.
+14.02.08 15:43:27 [INFO] BrunoWester failed Text: acted like spamming (IP: 192.168.1.153). VL 1.
+14.02.08 15:45:25 [INFO] santaclaus05 failed InstantBow: fires bow too fast. VL 31.
+14.02.08 15:45:34 [INFO] Augusta1 failed Text: acted like spamming (IP: 192.168.1.42). VL 3.
+14.02.08 15:47:28 [INFO] messi820 failed Text: acted like spamming (IP: 192.168.1.135). VL 3.
+14.02.08 15:48:04 [INFO] iggi321 failed CreativeFly: tried to move unexpectedly. VL 100.
+14.02.08 15:49:25 [INFO] AlbinSak failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 15:49:27 [INFO] AlbinSak failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 15:49:32 [INFO] AlbinSak failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 15:51:59 [INFO] agentwille failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 15:54:05 [INFO] SiLovskog failed Text: acted like spamming (IP: 192.168.1.154). VL 1.
+14.02.08 15:54:14 [INFO] SiLovskog failed Text: acted like spamming (IP: 192.168.1.154). VL 3.
+14.02.08 15:55:17 [INFO] AlbinSak failed Speed: tried to throw projectiles too quickly. VL 289.
+14.02.08 15:55:21 [INFO] Xtremeeer failed InstantBow: fires bow too fast. VL 23.
+14.02.08 15:55:30 [INFO] Xtremeeer failed InstantBow: fires bow too fast. VL 33.
+14.02.08 15:55:37 [INFO] jackragn failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 98.
+14.02.08 15:56:22 [INFO] kobragift failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.02.08 15:58:36 [INFO] Gruvkrossaren failed Reach: exceeds block-interact distance (253). VL 253.
+14.02.08 15:59:44 [INFO] else25 failed Passable: moved into a block (85). VL 11.
+14.02.08 16:07:54 [INFO] mippen failed Speed: tried to attack with too high a frequency. VL 2.
+14.02.08 16:10:50 [INFO] EbbeW failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 16:10:55 [INFO] mippen failed Reach: exceeds block-interact distance (1). VL 6.
+14.02.08 16:11:08 [INFO] mippen failed Reach: exceeds block-interact distance (1). VL 7.
+14.02.08 16:15:40 [INFO] Danielgus008 failed CreativeFly: tried to move unexpectedly. VL 363.
+14.02.08 16:16:34 [INFO] Danielgus008 failed InstantBow: fires bow too fast. VL 26.
+14.02.08 16:16:43 [INFO] Danielgus008 failed InstantBow: fires bow too fast. VL 15.
+14.02.08 16:24:02 [INFO] EmilBjaren failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.08 16:28:51 [INFO] mrstef failed Passable: moved into a block (160). VL 10.
+14.02.08 16:28:55 [INFO] Danielgus008 failed Angle: tried to hit multiple entities at the same time. VL 306.
+14.02.08 16:28:55 [INFO] Danielgus008 failed Speed: tried to attack with too high a frequency. VL 2.
+14.02.08 16:30:08 [INFO] alexmalm failed Speed: tried to throw projectiles too quickly. VL 313.
+14.02.08 16:32:52 [INFO] mrstef failed Passable: moved into a block (160). VL 11.
+14.02.08 16:34:02 [INFO] pontusb04 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 53.
+14.02.08 16:34:07 [INFO] pontusb04 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 130.
+14.02.08 16:36:28 [INFO] jackragn failed Speed: tried to throw projectiles too quickly. VL 292.
+14.02.08 16:37:29 [INFO] santaclaus05 failed Speed: tried to throw projectiles too quickly. VL 314.
+14.02.08 16:37:36 [INFO] santaclaus05 failed Speed: tried to throw projectiles too quickly. VL 407.
+14.02.08 16:38:13 [INFO] Stortiger123 failed Reach: exceeds block-interact distance (253). VL 253.
+14.02.08 16:38:15 [INFO] Stortiger123 failed Reach: exceeds block-interact distance (252). VL 504.
+14.02.08 17:00:05 [INFO] Juliesuger failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 17:01:19 [INFO] AlvinEklund failed Direction: tried to hit an entity out of line of sight. VL 13.
+14.02.08 17:01:19 [INFO] AlvinEklund failed Direction: tried to hit an entity out of line of sight. VL 21.
+14.02.08 17:04:09 [INFO] Juliesuger failed Visible: interacts with a block out of sight. VL 6.
+14.02.08 17:07:50 [INFO] alexmalm failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 17:10:21 [INFO] alexmalm failed Visible: interacts with a block out of sight. VL 5.
+14.02.08 17:16:29 [INFO] jeseira failed Passable: moved into a block (113). VL 10.
+14.02.08 17:16:39 [INFO] jeseira failed Passable: moved into a block (113). VL 11.
+14.02.08 17:16:45 [INFO] jeseira failed Passable: moved into a block (113). VL 15.
+14.02.08 17:16:50 [INFO] jeseira failed Passable: moved into a block (113). VL 21.
+14.02.08 17:16:56 [INFO] jeseira failed Passable: moved into a block (113). VL 19.
+14.02.08 17:24:43 [INFO] panssar failed Reach: exceeds block-interact distance (251). VL 251.
+14.02.08 17:25:41 [INFO] Askywalker02 failed Direction: tried to interact with a block out of his line of sight. VL 12.

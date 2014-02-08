@@ -1,0 +1,21 @@
+timestamps:
+  login: 1391874403686
+  lastteleport: 1391873720273
+  logout: 1391876532731
+ipAddress: 192.168.1.130
+lastlocation:
+  world: world
+  x: 976.4446103979597
+  y: 34.49863456519168
+  z: 1637.1782986500702
+  yaw: 276.346
+  pitch: 17.549997
+nickname: bowser222
+afk: false
+logoutlocation:
+  world: world
+  x: 982.315920383321
+  y: 4.0
+  z: 1474.5897063927305
+  yaw: -30.320068
+  pitch: 10.650017

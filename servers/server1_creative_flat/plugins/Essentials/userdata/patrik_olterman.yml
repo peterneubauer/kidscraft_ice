@@ -1,0 +1,20 @@
+timestamps:
+  login: 1391874905667
+  logout: 1391875880231
+ipAddress: 192.168.1.61
+lastlocation:
+  world: world
+  x: 917.722575547567
+  y: -123.69563563753341
+  z: 1651.2605887864183
+  yaw: 229.73349
+  pitch: 90.0
+nickname: Angelina
+logoutlocation:
+  world: world
+  x: 1144.6993209371794
+  y: 26.70440895882269
+  z: 1585.4130268891065
+  yaw: 179.31616
+  pitch: 65.399994
+afk: false

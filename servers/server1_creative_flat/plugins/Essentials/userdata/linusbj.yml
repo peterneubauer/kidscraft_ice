@@ -1,0 +1,21 @@
+timestamps:
+  login: 1391875681500
+  logout: 1391875764516
+  lastteleport: 1391872296802
+ipAddress: 192.168.1.102
+lastlocation:
+  world: world
+  x: 577.3698080088029
+  y: -202.49848951209324
+  z: 1899.57793549028
+  yaw: -223.43051
+  pitch: 90.0
+nickname: linusbj
+logoutlocation:
+  world: world
+  x: 1138.287679171408
+  y: 16.614355966771843
+  z: 1351.0310942335668
+  yaw: -22.349804
+  pitch: 60.508797
+afk: false

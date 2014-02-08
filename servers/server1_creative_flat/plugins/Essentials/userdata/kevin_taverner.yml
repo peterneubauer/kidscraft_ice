@@ -1,0 +1,21 @@
+timestamps:
+  login: 1391876369221
+  logout: 1391875711585
+ipAddress: 192.168.1.41
+lastlocation:
+  world: world
+  x: 1072.5
+  y: 4.0
+  z: 1707.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 1575.699999988079
+  y: 8.406951959153346
+  z: 1864.7126584295922
+  yaw: 250.58838
+  pitch: -21.749992
+ban:
+  reason: Temporarily banned from server for 10 minutes.
+  timeout: 0

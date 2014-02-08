@@ -1,0 +1,21 @@
+users:
+  kalleneubauer:
+    group: Admin
+    subgroups: []
+    permissions: []
+  Legosoldat:
+    group: Admin
+    subgroups: []
+    permissions: []
+  mallaballa:
+    group: Owner
+    subgroups: []
+    permissions: []
+  miljonmannen:
+    group: Admin
+    subgroups: []
+    permissions: []
+  Starlord_STRX:
+    group: Owner
+    subgroups: []
+    permissions: []
