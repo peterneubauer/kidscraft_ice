@@ -1,0 +1,4 @@
+# Updated 2/8/14 6:47 PM by Minecraft 1.7.2
+# victim name | ban date | banned by | banned until | reason
+
+juliusbilen|2014-02-08 14:42:43 +0200|(Unknown)|Forever|Banned by an operator.
