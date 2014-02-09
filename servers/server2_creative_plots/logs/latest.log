@@ -1,28 +1,176 @@
-[03:25:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10391ms behind, skipping 207 tick(s)
-[03:27:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7055ms behind, skipping 141 tick(s)
-[15:31:12] [Server thread/INFO]: CONSOLE issued server command: /kickall Restarting server!  Try again in 60 seconds!
-[15:31:12] [Server thread/INFO]: [0;31;22mKicked all players from server.[m
-[15:31:14] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[15:31:14] [Server thread/INFO]: Stopping server
-[15:31:14] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
-[15:31:14] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
-[15:31:14] [Server thread/INFO]: [PlotMe] Disabling PlotMe v0.13b
-[15:31:14] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
-[15:31:14] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.12.2
-[15:31:14] [Server thread/INFO]: [Essentials] Disabling Essentials v2.12.2
-[15:31:14] [Server thread/INFO]: [Microblocks] Disabling Microblocks v2.0
-[15:31:14] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.5.8
-[15:31:14] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.10.7-BETA-sMD5NET-b651
-[15:31:14] [Server thread/INFO]: [NoCheatPlus] Version 3.10.7-BETA-sMD5NET-b651 is disabled.
-[15:31:14] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
-[15:31:14] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
-[15:31:14] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
-[15:31:14] [Server thread/INFO]: Saving players
-[15:31:14] [Server thread/INFO]: Saving worlds
-[15:31:14] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:31:14] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[15:31:14] [Thread-4/INFO]: Stopping server
-[15:31:14] [Thread-4/INFO]: Saving players
-[15:31:14] [Thread-4/INFO]: Saving worlds
-[15:31:14] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
-[15:31:14] [Thread-4/INFO]: Saving chunks for level 'world_nether'/Nether
+[18:47:07] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[18:47:07] [Server thread/INFO]: Loading properties
+[18:47:07] [Server thread/INFO]: Default game type: CREATIVE
+[18:47:07] [Server thread/INFO]: Generating keypair
+[18:47:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:47:08] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[18:47:08] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[18:47:08] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[18:47:08] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[18:47:08] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[18:47:08] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[18:47:08] [Thread-7/INFO]: ----- ------------------- -----
+[18:47:08] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[18:47:08] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.5.8
+[18:47:08] [Server thread/INFO]: [PlotMe] Loading PlotMe v0.13b
+[18:47:08] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[18:47:08] [Server thread/INFO]: [Microblocks] Loading Microblocks v2.0
+[18:47:08] [Server thread/INFO]: [Essentials] Loading Essentials v2.12.2
+[18:47:08] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.12.2
+[18:47:08] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[18:47:08] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+[18:47:08] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[18:47:08] [Server thread/INFO]: [PlotMe] Enabling PlotMe v0.13b
+[18:47:09] [Server thread/INFO]: §9[PlotMe] §r 6 plots loaded
+[18:47:09] [Server thread/INFO]: Preparing level "world"
+[18:47:09] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6798483709324465257)
+[18:47:10] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6798483709324465257)
+[18:47:10] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'moderator' not found for group Admin. Ignoring entry in file: plugins/GroupManager/worlds/world/groups.yml
+[18:47:10] [Server thread/INFO]: GroupManager - INFO - World Found: plotworld
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'plotme.use' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'plotme.limit.2' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'plotme.use.claim' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.clipboard.copy' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.clipboard.rotate' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.clipboard.flip' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.clipboard.cut' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.clipboard.paste' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.help' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.generation.cylinder' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.generation.sphere' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.generation.forest' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.generation.pumpkins' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.generation.pyramid' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.generation.shape' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.history.undo' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.navigation.thru.command' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.navigation.unstuck' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.navigation.ascend' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.navigation.descend' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.navigation.jumpto.command' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.navigation.up' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.region.hollow' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.region.smooth' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.regen' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.region.replace' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.butcher' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.extinguish' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.drain' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.drain' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'worldedit.snow' not found for group Builder. Ignoring entry in file: plugins/GroupManager/worlds/plotworld/groups.yml
+[18:47:10] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[18:47:10] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[18:47:10] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[18:47:10] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[18:47:10] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[18:47:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.5.8
+[18:47:11] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[18:47:11] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[18:47:11] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.7.2 / CB2922-DEV
+[18:47:11] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[18:47:11] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[18:47:11] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[18:47:11] [Server thread/INFO]: [NoCheatPlus] Version 3.10.7-BETA-sMD5NET-b651 is enabled.
+[18:47:12] [Server thread/INFO]: [Microblocks] Enabling Microblocks v2.0
+[18:47:12] [Server thread/INFO]: [Microblocks] Please report any head mismatches to itsCrafted on SpigotMC, or infiniteForge on BukkitDev.
+[18:47:12] [Server thread/INFO]: [Microblocks] The current plugin version is 2.0. Please use this when sending reports of mismatched heads and such.
+[18:47:12] [Server thread/INFO]: [Essentials] Enabling Essentials v2.12.2
+[18:47:12] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[18:47:12] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.12.2
+[18:47:12] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[18:47:12] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+[18:47:12] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[18:47:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:47:12] [Server thread/INFO]: Done (3.387s)! For help, type "help" or "?"
+[18:47:12] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[18:47:12] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[18:47:12] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[18:47:14] [User Authenticator #1/INFO]: UUID of player Ugglas is 74023779bc6e45f0bb3c1604ef54faa2
+[18:47:15] [Server thread/INFO]: Ugglas[/192.168.1.210:52050] logged in with entity id 86 at ([world] -399.6301970309667, 94.1569254489728, 334.09551349384157)
+[18:47:23] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[18:47:38] [Server thread/INFO]: Ugglas issued server command: //undo
+[18:47:41] [Server thread/INFO]: Ugglas issued server command: //undo
+[18:47:57] [Server thread/INFO]: Ugglas issued server command: //wand
+[18:48:10] [User Authenticator #2/INFO]: UUID of player Lajting_Leon is c22b9407d37949c2b0f41c8c2a553528
+[18:48:10] [Server thread/INFO]: Lajting_Leon[/192.168.1.72:56970] logged in with entity id 158 at ([world] 24.35693938630082, 89.452633511527, 286.77769468320275)
+[18:48:10] [User Authenticator #3/INFO]: UUID of player AlvinEklund is e192d30e075a43c9972c4337c3420c8f
+[18:48:10] [Server thread/INFO]: AlvinEklund[/192.168.1.149:64747] logged in with entity id 167 at ([world] 225.3535225299074, 66.0, 376.3529130621218)
+[18:48:21] [Server thread/INFO]: Lajting_Leon lost connection: Disconnected
+[18:48:21] [Server thread/INFO]: Lajting_Leon left the game.
+[18:48:24] [User Authenticator #4/INFO]: UUID of player mamarob is aa4aa77eca9449aeb79fa01c0aa7aacd
+[18:48:24] [Server thread/INFO]: mamarob[/192.168.1.24:51070] logged in with entity id 233 at ([world] 16.5, 70.0, 261.5)
+[18:48:24] [pool-6-thread-1/INFO]: Creating empty config: /home/kidscraft/kidscraft/kidscraft_ice/servers/server2_creative_plots/plugins/Essentials/userdata/mamarob.yml
+[18:48:29] [Server thread/INFO]: GameProfile{id='null', name='AlvinEklund'} (/192.168.1.149:64745) lost connection: Disconnected
+[18:48:29] [Server thread/INFO]: GameProfile{id='null', name='AlvinEklund'} (/192.168.1.149:64746) lost connection: Disconnected
+[18:48:56] [Server thread/INFO]: GameProfile{id='null', name='monopol99'} (/192.168.1.62:50722) lost connection: Disconnected
+[18:49:07] [Server thread/INFO]: Ugglas issued server command: //REGEN
+[18:49:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5853ms behind, skipping 117 tick(s)
+[18:49:48] [Server thread/INFO]: Ugglas issued server command: //EXPAND VERT
+[18:49:50] [Server thread/INFO]: Ugglas issued server command: //REGEN
+[18:49:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3353ms behind, skipping 67 tick(s)
+[18:50:01] [Server thread/INFO]: Ugglas lost connection: Disconnected
+[18:50:02] [Server thread/INFO]: Ugglas left the game.
+[18:50:05] [User Authenticator #5/INFO]: UUID of player dengrymme is afef704ec4334f71a998c862143beb27
+[18:50:05] [Server thread/INFO]: dengrymme[/192.168.1.55:61008] logged in with entity id 409 at ([world] 54.1556827564992, 95.61435597561993, 240.8302840215383)
+[18:50:10] [User Authenticator #6/INFO]: UUID of player monopol99 is 781f16b67e894423b57afcf894feaeb2
+[18:50:10] [Server thread/INFO]: monopol99[/192.168.1.62:50740] logged in with entity id 436 at ([world] 75.79520310249171, 70.0, 281.3270791138608)
+[18:50:19] [Server thread/INFO]: monopol99 lost connection: Disconnected
+[18:50:19] [Server thread/INFO]: monopol99 left the game.
+[18:50:22] [User Authenticator #7/INFO]: UUID of player Starlord_STRX is 8fd06a990d5f4a9d8a4b1bce772e81bf
+[18:50:22] [Server thread/INFO]: Starlord_STRX[/192.168.1.25:59030] logged in with entity id 446 at ([world] -271.9303712663588, 82.0, 702.0804203111611)
+[18:50:26] [User Authenticator #8/INFO]: UUID of player danban99 is c85b6e121f354beebc6728f6c9634e69
+[18:50:26] [Server thread/INFO]: danban99[/192.168.1.124:2584] logged in with entity id 897 at ([world] 17.19829409992015, 85.27236172147114, 224.33703830513798)
+[18:50:34] [User Authenticator #9/INFO]: UUID of player monopol99 is 781f16b67e894423b57afcf894feaeb2
+[18:50:34] [Server thread/INFO]: monopol99[/192.168.1.62:50751] logged in with entity id 901 at ([world] 75.79520310249171, 70.0, 281.3270791138608)
+[18:50:44] [Server thread/INFO]: Starlord_STRX issued server command: //expand vert
+[18:50:47] [Server thread/INFO]: Starlord_STRX issued server command: //regen
+[18:51:00] [Server thread/INFO]: Starlord_STRX issued server command: /speed 5
+[18:51:03] [Netty IO #4/INFO]: [m<[0;33;1mmamarob[m> ICE 2[m
+[18:51:03] [Server thread/INFO]: monopol99 issued server command: /seawn
+[18:51:10] [Server thread/INFO]: Starlord_STRX issued server command: //expand vert
+[18:51:15] [Server thread/INFO]: mamarob issued server command: /time set 0
+[18:51:15] [Server thread/INFO]: §cmamarob §4was denied access to command.
+[18:51:40] [Server thread/INFO]: Starlord_STRX lost connection: Internal Exception: net.minecraft.util.io.netty.handler.timeout.ReadTimeoutException
+[18:51:41] [Server thread/INFO]: Starlord_STRX left the game.
+[18:51:56] [User Authenticator #10/INFO]: UUID of player xantedantex is 268acce634394348848e92294fa1182d
+[18:51:56] [Server thread/INFO]: xantedantex[/192.168.1.74:62887] logged in with entity id 1037 at ([world] 22.826379728704463, 74.0, 251.70857789426512)
+[18:52:14] [Server thread/INFO]: mamarob lost connection: Disconnected
+[18:52:14] [Server thread/INFO]: mamarob left the game.
+[18:52:31] [Server thread/INFO]: danban99 lost connection: Disconnected
+[18:52:31] [Server thread/INFO]: danban99 left the game.
+[18:52:32] [User Authenticator #11/INFO]: UUID of player kalleneubauer is d31c212aa8e647e48c5a7934331397f1
+[18:52:32] [Server thread/INFO]: kalleneubauer[/192.168.1.94:51738] logged in with entity id 1055 at ([world] 41.17645248381644, 74.0, 252.13226696329502)
+[18:52:33] [Server thread/INFO]: monopol99 lost connection: Disconnected
+[18:52:33] [Server thread/INFO]: monopol99 left the game.
+[18:52:41] [Server thread/INFO]: dengrymme lost connection: Disconnected
+[18:52:41] [Server thread/INFO]: dengrymme left the game.
+[18:52:52] [Server thread/INFO]: xantedantex issued server command: /tpa kalleneubauer
+[18:52:52] [Server thread/INFO]: §cxantedantex §4was denied access to command.
+[18:52:56] [Netty IO #2/INFO]: [m<[0;33;1mxantedantex[m> AlvinEklund[m
+[18:52:57] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[18:52:57] [Server thread/INFO]: AlvinEklund lost connection: KISCRAFT OVER
+[18:52:57] [Server thread/INFO]: AlvinEklund left the game.
+[18:52:57] [Server thread/INFO]: xantedantex lost connection: KISCRAFT OVER
+[18:52:57] [Server thread/INFO]: xantedantex left the game.
+[18:52:57] [Server thread/INFO]: kalleneubauer lost connection: KISCRAFT OVER
+[18:52:57] [Server thread/INFO]: kalleneubauer left the game.
+[18:52:57] [Server thread/INFO]: Stopping server
+[18:52:57] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[18:52:57] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+[18:52:57] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[18:52:57] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.12.2
+[18:52:57] [Server thread/INFO]: [Essentials] Disabling Essentials v2.12.2
+[18:52:57] [Server thread/INFO]: [Microblocks] Disabling Microblocks v2.0
+[18:52:57] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[18:52:57] [Server thread/INFO]: [NoCheatPlus] Version 3.10.7-BETA-sMD5NET-b651 is disabled.
+[18:52:57] [Server thread/INFO]: [PlotMe] Disabling PlotMe v0.13b
+[18:52:57] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.5.8
+[18:52:57] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[18:52:57] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[18:52:57] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[18:52:57] [Server thread/INFO]: Saving players
+[18:52:57] [Server thread/INFO]: Saving worlds
+[18:52:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:52:57] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[18:52:57] [Thread-4/INFO]: Stopping server
