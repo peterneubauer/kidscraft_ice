@@ -1,0 +1,33 @@
+timestamps:
+  login: 1391865954898
+  logout: 1391865963948
+  lastteleport: 1391865804048
+  kits:
+    tools: 1391862594586
+    firework: 1391862834061
+    color: 1391862602604
+    dtools: 1391865142137
+    notch: 1391862169434
+ipAddress: 192.168.1.26
+logoutlocation:
+  world: world
+  x: -1398.1971071879834
+  y: 7.0
+  z: 1095.7219359327814
+  yaw: -189.37105
+  pitch: -3.2115643
+lastlocation:
+  world: world
+  x: -1397.392802716775
+  y: 7.0
+  z: 1095.8242578998759
+  yaw: -154.06125
+  pitch: 26.171532
+homes:
+  home:
+    world: world
+    x: -1397.392802716775
+    y: 7.0
+    z: 1095.8242578998759
+    yaw: -154.06125
+    pitch: 26.171532

@@ -1,0 +1,21 @@
+timestamps:
+  login: 1391865818656
+  logout: 1391865995105
+ipAddress: 192.168.1.166
+lastlocation:
+  world: plotworld
+  x: -114.6577148705166
+  y: 65.0
+  z: 238.40894260849353
+  yaw: 112.128494
+  pitch: 5.725902
+logoutlocation:
+  world: plotworld
+  x: -137.4873613184408
+  y: 65.0
+  z: 208.82876569182653
+  yaw: 28.046993
+  pitch: 9.961328
+ban:
+  reason: "§4Bannlyst: \n§rBanhammaren har talat!"
+  timeout: 0

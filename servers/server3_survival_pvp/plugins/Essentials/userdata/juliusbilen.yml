@@ -1,0 +1,22 @@
+timestamps:
+  login: 1391862834699
+  lastteleport: 1391861750214
+  logout: 1391863108082
+ipAddress: 192.168.1.92
+lastlocation:
+  world: world
+  x: -1470.7402841356482
+  y: 64.23152379758702
+  z: 1056.4359860961606
+  yaw: -337.417
+  pitch: 7.1738296
+logoutlocation:
+  world: world
+  x: -465.3383186908229
+  y: 71.0
+  z: -319.5465887047937
+  yaw: 94.64914
+  pitch: 53.21445
+ban:
+  reason: "§4Bannlyst: \n§rBanhammaren har talat!"
+  timeout: 0

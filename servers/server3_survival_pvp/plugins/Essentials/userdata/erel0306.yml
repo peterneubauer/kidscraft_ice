@@ -1,0 +1,22 @@
+timestamps:
+  login: 1391874338111
+  lastteleport: 1391873842746
+  kits:
+    tools: 1391869553556
+  logout: 1391874633859
+ipAddress: 192.168.1.157
+lastlocation:
+  world: world
+  x: -120.73399411501175
+  y: 57.7468133778336
+  z: 266.32263053674
+  yaw: -182.85
+  pitch: 13.500019
+logoutlocation:
+  world: world
+  x: -1467.5919521595945
+  y: 70.0
+  z: 866.4900336276247
+  yaw: 347.47577
+  pitch: 28.950033
+nickname: yolo

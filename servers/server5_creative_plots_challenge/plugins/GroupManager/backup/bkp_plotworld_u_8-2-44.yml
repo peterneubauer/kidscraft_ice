@@ -1,0 +1,48 @@
+users:
+  Afus2002:
+    group: Admin
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  gustafmario:
+    group: Admin
+    subgroups: []
+    permissions: []
+  kalleneubauer:
+    group: Admin
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Legosoldat:
+    group: Admin
+    subgroups: []
+    permissions: []
+  mallaballa:
+    group: Owner
+    subgroups: []
+    permissions: []
+  miljonmannen:
+    group: Admin
+    subgroups: []
+    permissions: []
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Starlord_STRX:
+    group: Owner
+    subgroups: []
+    permissions: []
+  Yognaut_Magix:
+    group: Yogger
+    subgroups: []
+    permissions: []

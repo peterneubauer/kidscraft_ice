@@ -1,0 +1,28 @@
+timestamps:
+  login: 1391874191598
+  logout: 1391874403062
+  lastteleport: 1391874394319
+ipAddress: 192.168.1.20
+logoutlocation:
+  world: world
+  x: 52.14009290669229
+  y: 27.0
+  z: 1494.300000011921
+  yaw: 314.68845
+  pitch: 28.589273
+homes:
+  home:
+    world: world
+    x: -837.113951705986
+    y: 51.0
+    z: 502.60237620617465
+    yaw: 122.8499
+    pitch: 37.19999
+lastlocation:
+  world: world
+  x: -837.113951705986
+  y: 51.0
+  z: 502.60237620617465
+  yaw: 122.8499
+  pitch: 37.19999
+nickname: Op2

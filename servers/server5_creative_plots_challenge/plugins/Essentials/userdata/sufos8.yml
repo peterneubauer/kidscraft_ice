@@ -1,0 +1,30 @@
+timestamps:
+  login: 1391876405368
+  logout: 1391876432068
+  lastteleport: 1391875174378
+ipAddress: 192.168.1.59
+lastlocation:
+  world: plotworld
+  x: -17.639064710881577
+  y: 71.45038029705499
+  z: 106.36683482905974
+  yaw: 116.76752
+  pitch: 41.699978
+ban:
+  reason: Temporärt bannad från servern för 14 sekunder
+  timeout: 0
+logoutlocation:
+  world: plotworld
+  x: 114.10346665788431
+  y: 96.61463400578373
+  z: 105.84474499068588
+  yaw: 226.50275
+  pitch: 31.050007
+homes:
+  hus:
+    world: plotworld
+    x: 105.0553232784333
+    y: 65.0
+    z: 92.90274847642243
+    yaw: -4.3480835
+    pitch: 22.499971

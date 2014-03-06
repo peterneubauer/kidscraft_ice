@@ -1,0 +1,30 @@
+timestamps:
+  login: 1391874616010
+  lastteleport: 1391874163494
+  kits:
+    tools: 1391873468638
+  logout: 1391875134003
+ipAddress: 192.168.1.43
+lastlocation:
+  world: world
+  x: -1475.699999988079
+  y: 64.875
+  z: 868.3000000119209
+  yaw: -48.231915
+  pitch: 23.09999
+logoutlocation:
+  world: world
+  x: -1473.3957541099521
+  y: 64.0
+  z: 852.1588939194746
+  yaw: 146.01807
+  pitch: 43.200012
+homes:
+  home:
+    world: world
+    x: -1474.0148163074186
+    y: 64.0
+    z: 867.2375000119209
+    yaw: -174.98193
+    pitch: 20.549988
+nickname: Op

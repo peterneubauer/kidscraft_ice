@@ -1,0 +1,18 @@
+timestamps:
+  login: 1391876491368
+  logout: 1391878149569
+ipAddress: 192.168.1.166
+lastlocation:
+  world: mainWorld
+  x: -72.0
+  y: 64.0
+  z: 128.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: plotworld
+  x: -132.16926925323142
+  y: 89.24926716123586
+  z: 340.6056337865459
+  yaw: -59.373047
+  pitch: 20.429035

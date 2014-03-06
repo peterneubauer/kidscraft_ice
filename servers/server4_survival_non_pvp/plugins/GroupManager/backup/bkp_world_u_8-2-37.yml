@@ -1,0 +1,9 @@
+users:
+  miljonmannen:
+    group: Admin
+    subgroups: []
+    permissions: []
+  Starlord_STRX:
+    group: Owner
+    subgroups: []
+    permissions: []

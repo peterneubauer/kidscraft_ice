@@ -1,0 +1,110 @@
+[21:18:39] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[21:18:39] [Server thread/INFO]: Loading properties
+[21:18:39] [Server thread/INFO]: Default game type: CREATIVE
+[21:18:39] [Server thread/INFO]: Generating keypair
+[21:18:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:18:39] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[21:18:40] [Server thread/INFO]: [Backup] Loading Backup v2.5
+[21:18:40] [Server thread/ERROR]: Plugin attempted to register task while disabled initializing Backup v2.5 (Is it up to date?)
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:394) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.scheduler.CraftScheduler.scheduleAsyncRepeatingTask(CraftScheduler.java:133) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at com.bukkitbackup.full.utils.MetricUtils.start(MetricUtils.java:108) ~[?:?]
+	at com.bukkitbackup.full.BackupFull.onLoad(BackupFull.java:63) ~[?:?]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugins(CraftServer.java:260) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.<init>(CraftServer.java:233) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerList.<init>(PlayerList.java:63) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedPlayerList.<init>(SourceFile:14) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.init(DedicatedServer.java:126) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:424) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+[21:18:40] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[21:18:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.5.8
+[21:18:40] [Server thread/INFO]: [PlotMe] Loading PlotMe v0.13b
+[21:18:40] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[21:18:40] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[21:18:40] [Thread-7/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+[21:18:40] [Thread-7/WARN]: Could not get latest artifact information: UnknownHostException
+[21:18:40] [Server thread/INFO]: [Microblocks] Loading Microblocks v2.0
+[21:18:40] [Server thread/INFO]: [Essentials] Loading Essentials v2.12.2
+[21:18:40] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.12.2
+[21:18:40] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[21:18:40] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+[21:18:40] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[21:18:40] [Server thread/INFO]: [PlotMe] Enabling PlotMe v0.13b
+[21:18:41] [Server thread/INFO]: §9[PlotMe] §r 72 plots loaded
+[21:18:42] [Server thread/INFO]: Preparing level "mainWorld"
+[21:18:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: 641840468722527279)
+[21:18:42] [Server thread/INFO]: Preparing start region for level 1 (Seed: 641840468722527279)
+[21:18:43] [Server thread/INFO]: [Backup] Enabling Backup v2.5
+[21:18:43] [Server thread/INFO]: [Backup] Backup is disabled for the following world(s):
+[21:18:43] [Server thread/INFO]: [Backup] [mainWorld]
+[21:18:43] [Server thread/INFO]: [Backup] Backup v2.5 enabled!
+[21:18:43] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[21:18:43] [Server thread/WARN]: GroupManager - WARNING - Inherited group 'moderator' not found for group Admin. Ignoring entry in file: plugins/GroupManager/worlds/world/groups.yml
+[21:18:43] [Server thread/INFO]: GroupManager - INFO - World Found: mainworld
+[21:18:43] [Server thread/INFO]: GroupManager - INFO - World Found: plotworld
+[21:18:43] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[21:18:43] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[21:18:43] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[21:18:43] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[21:18:43] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[21:18:43] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.5.8
+[21:18:43] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[21:18:43] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[21:18:43] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.7.2 / CB2922-DEV
+[21:18:43] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[21:18:43] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[21:18:43] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[21:18:43] [Server thread/INFO]: [NoCheatPlus] Version 3.10.7-BETA-sMD5NET-b651 is enabled.
+[21:18:43] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[21:18:43] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[21:18:44] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: plotworld_nether
+[21:18:44] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[21:18:44] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3295405199782953854)
+[21:18:44] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[21:18:44] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[21:18:44] [Server thread/INFO]: [Microblocks] Enabling Microblocks v2.0
+[21:18:44] [Server thread/INFO]: [Microblocks] Please report any head mismatches to itsCrafted on SpigotMC, or infiniteForge on BukkitDev.
+[21:18:44] [Server thread/INFO]: [Microblocks] The current plugin version is 2.0. Please use this when sending reports of mismatched heads and such.
+[21:18:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.12.2
+[21:18:45] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[21:18:45] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.12.2
+[21:18:45] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[21:18:45] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+[21:18:45] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[21:18:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:18:45] [Server thread/INFO]: Done (3,378s)! For help, type "help" or "?"
+[21:18:45] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[21:18:45] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[21:18:45] [pool-3-thread-3/INFO]: [Backup] Failed to retrieve latest version information.
+[21:18:45] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[21:18:45] [pool-3-thread-2/INFO]: [Metrics] mcstats.org
+[21:18:49] [Server thread/INFO]: CONSOLE issued server command: /kickall Restarting server!  Try again in 60 seconds!
+[21:18:49] [Server thread/INFO]: [0;31;1mSparkade ut alla spelare från servern[m
+[21:18:51] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[21:18:51] [Server thread/INFO]: Stopping server
+[21:18:51] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[21:18:51] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+[21:18:51] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[21:18:51] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.12.2
+[21:18:51] [Server thread/INFO]: [Essentials] Disabling Essentials v2.12.2
+[21:18:51] [Server thread/INFO]: [Microblocks] Disabling Microblocks v2.0
+[21:18:51] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[21:18:51] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.10.7-BETA-sMD5NET-b651
+[21:18:51] [Server thread/INFO]: [NoCheatPlus] Version 3.10.7-BETA-sMD5NET-b651 is disabled.
+[21:18:51] [Server thread/INFO]: [PlotMe] Disabling PlotMe v0.13b
+[21:18:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.5.8
+[21:18:52] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[21:18:52] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[21:18:52] [Server thread/INFO]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[21:18:52] [Server thread/INFO]: [Backup] Disabling Backup v2.5
+[21:18:52] [Server thread/INFO]: [Backup] Backup v2.5 diabled!
+[21:18:52] [Server thread/INFO]: Saving players
+[21:18:52] [Server thread/INFO]: Saving worlds
+[21:18:52] [Server thread/INFO]: Saving chunks for level 'mainWorld'/Overworld
+[21:18:52] [Server thread/INFO]: Saving chunks for level 'mainWorld_nether'/Nether
+[21:18:52] [Server thread/INFO]: Saving chunks for level 'plotworld'/Overworld
+[21:18:52] [Thread-4/INFO]: Stopping server
+[21:18:52] [Thread-4/INFO]: Saving players
